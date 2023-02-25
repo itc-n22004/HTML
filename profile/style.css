@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+
+header {
+    background: #121212;
+    text-align: right;
+    padding: 1vw;
+}
+
+nav {
+    text-align: center;
+    display: flex;
+}
+
+
+.pagetitle {
+    text-align: center;
+    padding: 1vw;
+    color: #818181;
+    font-weight: 500;
+    font-size: 2vw;
+    font-family: 'Vollkorn';
+    text-decoration: underline;
+    
+}
+
+.subtitle {
+    text-align: center;
+    display: flex;
+    padding: 1vw;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 2vw;
+    font-family: 'Vollkorn';
+    text-decoration: none;
+
+}
+
+h3 {
+    color: #ffffff;
+    padding-top: 5%;
+    font-family: 'Vollkorn';
+}
